@@ -7,5 +7,6 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
+Host: drakevendorladle.github.io
 
 Sitemap: https://drakevendorladle.github.io/zapret-youtube/sitemap.xml
